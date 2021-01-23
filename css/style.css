@@ -227,7 +227,6 @@
   color: #c18f59; }
 
 .brand-button {
-  background-color: #343434;
   display: inline-block;
   padding: 10px 20px;
   font-size: 11px;
@@ -238,6 +237,10 @@
   transition: 0.3s ease; }
   .brand-button:hover, .brand-button:focus {
     color: #777; }
+
+.resume-button {
+  background-color: #343434;
+}
 
 .fh5co-about-me {
   position: relative;
